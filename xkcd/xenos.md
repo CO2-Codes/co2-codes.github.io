@@ -64,6 +64,8 @@ Xenos' brother Kristian changed [Xenos' Facebook page](https://www.facebook.com/
 
 **[If you don't have Facebook, here's a Pastebin of his message.](https://pastebin.com/raw/pwQCu3xF)**
 
+<br>
+
 If you want to see anything changed or added to this page, that's no problem at all, just let CO2 know and he'll see what he can do.
 
 I would like to thank everyone in the community who supported me through this and helped me set up this page.
