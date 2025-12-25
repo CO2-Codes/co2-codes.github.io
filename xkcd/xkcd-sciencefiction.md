@@ -16,7 +16,7 @@ By design, this is a place for fans to share their views, ask their questions, a
 
 **It won't always be pretty, but dammit it'll be entertaining**(TM)
 
-_Want an edit to this page? Ask CO2!_
+_Want an edit to this page? Make a PR to the Github repo or ask CO2!_
 
 # Rules
 
