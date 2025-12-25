@@ -2,10 +2,10 @@
 
 Together with my friends, I run several IRC channels on the side of the main #xkcd channel on Slashnet.
 
-- [#xkcd-coding](xkcd-coding.php)
-- [#xkcd-sciencefiction](xkcd-sciencefiction.php)
-- [#xkcd-gaming](xkcd-gaming.php)
-- [#xkcd-chill](xkcd-chill.php)
-- [Xenos memorial page](xenos.php)
+- [#xkcd-coding](xkcd-coding)
+- [#xkcd-sciencefiction](xkcd-sciencefiction)
+- [#xkcd-gaming](xkcd-gaming)
+- [#xkcd-chill](xkcd-chill)
+- [Xenos memorial page](xenos)
 
-You can also find [Isaac's documentation here](isaac-docs.php).
+You can also find [Isaac's documentation here](isaac-docs).
