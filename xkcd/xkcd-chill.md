@@ -10,7 +10,7 @@ We're a positive, fun, and light-hearted IRC channel!
 
 It's a space dedicated to relaxed & happy conversation where you can decompress, destress, and dial back the harshness of the rest of the world.
 
-_Want an edit to this page? Ask CO2!_
+_Want an edit to this page? Make a PR to the Github repo or ask CO2!_
 
 # Rules & Recommendations
 
