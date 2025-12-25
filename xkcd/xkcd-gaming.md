@@ -6,7 +6,7 @@
 | **Genre**               | Video Gaming                                                             |
 | **Channel maintainers** | CO2                                                                      |
 
-_Want an edit to this page? Ask CO2!_
+_Want an edit to this page? Make a PR to the Github repo or ask CO2!_
 
 # Rules
 
