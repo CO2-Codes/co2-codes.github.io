@@ -2,10 +2,10 @@
 
 **Contents:**
 
-*   [What happened](#what_happened)
-*   [Interview with Xenos](#interview)
-*   [Fundraiser results](#fundraiser)
-*   [Further updates](#updates)
+*   [What happened](#what-happened)
+*   [Interview with Xenos](#interview-with-xenos)
+*   [Fundraiser results](#fundraiser-results)
+*   [Further updates](#further-updates)
 
 ------
 April 20th, 2021
@@ -14,9 +14,11 @@ Rest in peace, Xenos
 
 Tor Ivar Pettersen, You will be missed.
 
-![Photo of Xenos](https://co2.codes/xkcd/images/xenos.jpeg)
+![Photo of Xenos](images/xenos.jpeg)
 
 This page serves as a central place, both as a memorial for Xenos and as a place to share what we learned and what we're doing.
+
+<br>
 
 ## What happened
 
@@ -24,10 +26,13 @@ In mid April 2021, Xenos suddenly left our IRC community only leaving a short me
 
 Xenos' lungs were damaged because of a congenital heart defect that caused him to have a hole between his heart chambers. When the donor lungs arrived, the plan was to both bring the donor lungs in place and close the hole in his heart. However, it turned out the lungs weren't a good fit, and his old lungs and his fixed heart couldn't work together. The doctors tired to stabilize the blood pressures in his heart and lungs but after 3 days this failed and Xenos passed away, shortly after midnight on April 20th, 2021. He never regained consciousness in the four days after the failed transplant.
 
+<br>
   
 We did not find out about this until some time after the 5 weeks had passed, we hadn't seen Xenos, and I (CO2) decided to try to get in touch. I got in contact with Xenos' brother and learned what happened.
 
 On a personal note, I am quite devastated by the news, I considered Xenos a good friend. It was very tough for Xenos' brother to tell me the story but he did say he appreciated it a lot that we are reaching out to him, and he said Xenos would've appreciated it too.
+
+<br>
 
 ## Interview with Xenos
 
@@ -36,6 +41,8 @@ In 2020, Xenos did an interview for a Norwegian magazine about his condition and
 The original article can be found [here](https://www.an.no/tor-39-dor-hvis-han-ikke-far-nye-lunger-de-har-gitt-meg-to-ar/f/5-4-1227254), but is paywalled.  
 [This pastebin](https://pastebin.com/jxsVLXrL) contains a transcript of the article, in Norwegian.  
 And thanks to the efforts of tonyb486 and Caffeine, [here is a full English translation of the article](https://tonybox.net/xenos.htm).
+
+<br>
 
 ## Fundraiser results
 
@@ -48,6 +55,8 @@ We did a fundraiser in order to honour Xenos, collecting money for a foundation 
 | _Total_                               | _1374 EUR (13995 NOK; 1668 USD)_ |
 
 _Note: there may be some minor currency conversion rounding errors._
+
+<br>
 
 ## Further updates
 
