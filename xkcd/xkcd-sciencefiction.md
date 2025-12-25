@@ -1,4 +1,4 @@
-![logo](mages/xkcdsciencefictioncomp01.png)
+![logo](images/xkcdsciencefictioncomp01.png)
 
 # **#xkcd-sciencefiction**
 
