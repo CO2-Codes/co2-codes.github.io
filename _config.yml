@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 domain: co2.codes
 url: https://co2.codes
-title: CO2 codes
+title: CO<sub>2</sub> codes
 description: 
