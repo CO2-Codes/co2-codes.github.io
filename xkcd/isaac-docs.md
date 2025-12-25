@@ -22,6 +22,7 @@ This functionality does not work in private messages.
 
 <br>
 
+<a id="wayback"></a>
 ## Wayback machine link replacer (for Bucket)
 
 Use the command `!wayback` followed by either a full bucket factoid or a simple link to have Isaac look for a replacement URL in the Wayback Machine and generate a Bucket substitution syntax for you.
