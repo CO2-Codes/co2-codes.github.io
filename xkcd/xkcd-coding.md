@@ -12,34 +12,32 @@
 
 This channel is the 'something more comfortable in to which you can slip' when your discussion of coding is getting hot and heavy in #xkcd, and people there may be starting to stare.
 
-_Want an edit to this page? Ask CO2!_
+_Want an edit to this page? Make a PR to the Github repo or ask CO2!_
 
 # Rules & Recommendation
 
 ## IRC bot policy
 
-We recently had some people bring in new IRC bots. That's perfectly fine, but it made it a good idea to clarify some old unwritten rules and actually write them down.
-
 Bots are allowed in #xkcd-coding, as long as the following rules are followed:
 
 1.  The bot isn't excessively spammy. It's fine if you're actively testing and the channel is idle otherwise, but it shouldn't start spamming in the middle of an unrelated conversation.
-2.  The nickname of the bot's operator should be mentioned clearly in the bot's _/WHOIS_ response, and the +B (bot) user flag should be set.
+2.  The nickname of the bot's operator should be mentioned clearly in the bot's `/WHOIS` response, and the `+B` (bot) user flag should be set.
 3.  Your bot should ignore all messages from all other approved bots (see list below).
 4.  The following rules aren't required if you're testing out a new bot for the first day. However, if you plan to keep it or bring it back a second day, please complete the following steps as soon as possible.
 5.  Your bot should have a nickname that does not change.
-    *   It's recommended but not required to register it with NickServ (you can do that by impersonating the bot once, completing the registration, then adding the 'identify' private message to NickServ as a startup command for your bot).
+    * It's recommended but not required to register it with NickServ (you can do that by impersonating the bot once, completing the registration, then adding the `identify` private message to NickServ as a startup command for your bot).
 6.  It is YOUR responsibility as bot operator to contact all the other bot operators (in the approved bots list below) and get them to ignore your bot as well.
-    *   If you have a way of testing that your bot is fully ignored by all others and vice versa, please do so.
-7.  Once that is all done, please ask CO2 to add your bot to the approved bots list below.
+    * If you have a way of testing that your bot is fully ignored by all others and vice versa, please do so.
+7.  Once that is all done, please make a PR to add your bot to the approved bots list below and message CO2.
 
 ### **List of currently approved bots:**
 
 | Bot nickname | Operator / Owner |
-| --- | --- |
-| Isaac | CO2 |
-| dice | multi |
-| timemachine | multi |
-| \[Repo\] | \[R\] |
+| ------------ | ---------------- |
+| Isaac        | CO2              |
+| dice         | multi            |
+| timemachine  | multi            |
+| \[Repo\]     | \[R\]            |
 
 ## General channel rules
 
@@ -102,4 +100,4 @@ Please realize that most problems aren't new! Try searching for it online first.
 
 **Can I add a FAQ or handy link to this webpage?**
 
-Sure, just ask CO2!
+Sure, just make a PR or ask CO<sub>2</sub>!
